@@ -1,10 +1,10 @@
 # front-end
 
-home.html
-events.html
-event.html
-form.html
-profile_pub.html
-profile_private.html
-setting.html
-error.html
+home.html<br />
+events.html<br />
+event.html<br />
+form.html<br />
+profile_pub.html<br />
+profile_private.html<br />
+setting.html<br />
+error.html<br />
